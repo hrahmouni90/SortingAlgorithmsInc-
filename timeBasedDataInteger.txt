@@ -1,0 +1,145 @@
+Profiling Execution time for different Sorting Algorithms using Integer
+=======================================================================
+
+Array Size	: 1000
+Bubble Sort	: 0.011 sec
+Mod Bubble Sort	: 0.012 sec
+Selection Sort	: 0.005 sec
+Insertion Sort	: 0.003 sec
+Quick Sort	: 0.001 sec
+Quick Sort 2	: 0.001 sec
+Merge Sort	: 0 sec
+Heap Sort	: 0.001 sec
+Radix Sort	: 0.001 sec
+Bucket Sort	: 0.009 sec
+Counting Sort	: 0.004 sec
+
+Array Size	: 2000
+Bubble Sort	: 0.05 sec
+Mod Bubble Sort	: 0.051 sec
+Selection Sort	: 0.017 sec
+Insertion Sort	: 0.012 sec
+Quick Sort	: 0.003 sec
+Quick Sort 2	: 0.002 sec
+Merge Sort	: 0.002 sec
+Heap Sort	: 0.001 sec
+Radix Sort	: 0.001 sec
+Bucket Sort	: 0.004 sec
+Counting Sort	: 0.004 sec
+
+Array Size	: 3000
+Bubble Sort	: 0.116 sec
+Mod Bubble Sort	: 0.11 sec
+Selection Sort	: 0.039 sec
+Insertion Sort	: 0.025 sec
+Quick Sort	: 0.003 sec
+Quick Sort 2	: 0.003 sec
+Merge Sort	: 0.002 sec
+Heap Sort	: 0.002 sec
+Radix Sort	: 0.002 sec
+Bucket Sort	: 0.004 sec
+Counting Sort	: 0.004 sec
+
+Array Size	: 5000
+Bubble Sort	: 0.323 sec
+Mod Bubble Sort	: 0.306 sec
+Selection Sort	: 0.097 sec
+Insertion Sort	: 0.068 sec
+Quick Sort	: 0.007 sec
+Quick Sort 2	: 0.004 sec
+Merge Sort	: 0.002 sec
+Heap Sort	: 0.004 sec
+Radix Sort	: 0.003 sec
+Bucket Sort	: 0.004 sec
+Counting Sort	: 0.005 sec
+
+Array Size	: 10000
+Bubble Sort	: 1.444 sec
+Mod Bubble Sort	: 1.214 sec
+Selection Sort	: 0.392 sec
+Insertion Sort	: 0.272 sec
+Quick Sort	: 0.015 sec
+Quick Sort 2	: 0.01 sec
+Merge Sort	: 0.006 sec
+Heap Sort	: 0.007 sec
+Radix Sort	: 0.006 sec
+Bucket Sort	: 0.004 sec
+Counting Sort	: 0.005 sec
+
+Array Size	: 20000
+Bubble Sort	: 5.996 sec
+Mod Bubble Sort	: 4.934 sec
+Selection Sort	: 1.555 sec
+Insertion Sort	: 1.094 sec
+Quick Sort	: 0.029 sec
+Quick Sort 2	: 0.022 sec
+Merge Sort	: 0.013 sec
+Heap Sort	: 0.017 sec
+Radix Sort	: 0.012 sec
+Bucket Sort	: 0.006 sec
+Counting Sort	: 0.006 sec
+
+Array Size	: 30000
+Bubble Sort	: 14.64 sec
+Mod Bubble Sort	: 11.683 sec
+Selection Sort	: 4.541 sec
+Insertion Sort	: 2.717 sec
+Quick Sort	: 0.06 sec
+Quick Sort 2	: 0.03 sec
+Merge Sort	: 0.021 sec
+Heap Sort	: 0.027 sec
+Radix Sort	: 0.022 sec
+Bucket Sort	: 0.007 sec
+Counting Sort	: 0.006 sec
+
+Array Size	: 50000
+Bubble Sort	: 42.919 sec
+Mod Bubble Sort	: 34.014 sec
+Selection Sort	: 12.192 sec
+Insertion Sort	: 10.547 sec
+Quick Sort	: 0.135 sec
+Quick Sort 2	: 0.084 sec
+Merge Sort	: 0.062 sec
+Heap Sort	: 0.13 sec
+Radix Sort	: 0.103 sec
+Bucket Sort	: 0.013 sec
+Counting Sort	: 0.021 sec
+
+Array Size	: 100000
+Bubble Sort	: 181.68 sec
+Mod Bubble Sort	: 131.992 sec
+Selection Sort	: 42.23 sec
+Insertion Sort	: 28.673 sec
+Quick Sort	: 0.18 sec
+Quick Sort 2	: 0.119 sec
+Merge Sort	: 0.084 sec
+Heap Sort	: 0.103 sec
+Radix Sort	: 0.066 sec
+Bucket Sort	: 0.011 sec
+Counting Sort	: 0.015 sec
+
+Array Size	: 200000
+Bubble Sort	: 700.583 sec
+Mod Bubble Sort	: 524.939 sec
+Selection Sort	: 174.211 sec
+Insertion Sort	: 118.522 sec
+Quick Sort	: 0.413 sec
+Quick Sort 2	: 0.253 sec
+Merge Sort	: 0.162 sec
+Heap Sort	: 0.262 sec
+Radix Sort	: 0.133 sec
+Bucket Sort	: 0.015 sec
+Counting Sort	: 0.021 sec
+
+Array Size	: 300000
+Bubble Sort	: 1619.87 sec
+Mod Bubble Sort	: 1382.48 sec
+Selection Sort	: 476.96 sec
+Insertion Sort	: 359.589 sec
+Quick Sort	: 1.051 sec
+Quick Sort 2	: 0.459 sec
+Merge Sort	: 0.403 sec
+Heap Sort	: 0.447 sec
+Radix Sort	: 0.222 sec
+Bucket Sort	: 0.029 sec
+Counting Sort	: 0.04 sec

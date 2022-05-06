@@ -1,0 +1,562 @@
+Profiler for different Sorting Algorithms
+--------------------------------
+
+    Array Size	: 1000
+--------------------------------
+##### BUBBLE SORT #####
+
+Comparisons	: 999000
+Assignments	: 740010
+Compute Time	: 0.029 sec
+
+##### MOD BUBBLE SORT #####
+
+Comparisons	: 499500
+Assignments	: 772752
+Compute Time	: 0.019 sec
+
+##### SELECTION SORT #####
+
+Comparisons	: 499500
+Assignments	: 2997
+Compute Time	: 0.009 sec
+
+##### INSERTION SORT #####
+
+Comparisons	: 257584
+Assignments	: 259582
+Compute Time	: 0.006 sec
+
+##### QUICK SORT #####
+
+Comparisons	: 12276
+Assignments	: 7660
+Compute Time	: 0.002 sec
+
+##### RAND QUICK SORT #####
+
+Comparisons	: 10388
+Assignments	: 6531
+Compute Time	: 0.001 sec
+
+##### MERGE SORT #####
+
+Comparisons	: 9189
+Assignments	: 19951
+Compute Time	: 0.001 sec
+
+##### HEAP SORT #####
+
+Comparisons	: 1000
+Assignments	: 2997
+Compute Time	: 0.012 sec
+--------------------------------
+
+    Array Size	: 2000
+--------------------------------
+##### BUBBLE SORT #####
+
+Comparisons	: 3998000
+Assignments	: 3065715
+Compute Time	: 0.073 sec
+
+##### MOD BUBBLE SORT #####
+
+Comparisons	: 1999000
+Assignments	: 3065715
+Compute Time	: 0.042 sec
+
+##### SELECTION SORT #####
+
+Comparisons	: 1999000
+Assignments	: 5997
+Compute Time	: 0.029 sec
+
+##### INSERTION SORT #####
+
+Comparisons	: 1021905
+Assignments	: 1025903
+Compute Time	: 0.017 sec
+
+##### QUICK SORT #####
+
+Comparisons	: 24077
+Assignments	: 15277
+Compute Time	: 0.002 sec
+
+##### RAND QUICK SORT #####
+
+Comparisons	: 23767
+Assignments	: 14865
+Compute Time	: 0.003 sec
+
+##### MERGE SORT #####
+
+Comparisons	: 20420
+Assignments	: 43903
+Compute Time	: 0.001 sec
+
+##### HEAP SORT #####
+
+Comparisons	: 2000
+Assignments	: 5997
+Compute Time	: 0.012 sec
+--------------------------------
+
+    Array Size	: 3000
+--------------------------------
+##### BUBBLE SORT #####
+
+Comparisons	: 8997000
+Assignments	: 6829641
+Compute Time	: 0.151 sec
+
+##### MOD BUBBLE SORT #####
+
+Comparisons	: 4498500
+Assignments	: 6829641
+Compute Time	: 0.089 sec
+
+##### SELECTION SORT #####
+
+Comparisons	: 4498500
+Assignments	: 8997
+Compute Time	: 0.047 sec
+
+##### INSERTION SORT #####
+
+Comparisons	: 2276547
+Assignments	: 2282545
+Compute Time	: 0.035 sec
+
+##### QUICK SORT #####
+
+Comparisons	: 39236
+Assignments	: 22375
+Compute Time	: 0.005 sec
+
+##### RAND QUICK SORT #####
+
+Comparisons	: 39165
+Assignments	: 24884
+Compute Time	: 0.006 sec
+
+##### MERGE SORT #####
+
+Comparisons	: 32286
+Assignments	: 69807
+Compute Time	: 0.002 sec
+
+##### HEAP SORT #####
+
+Comparisons	: 3000
+Assignments	: 8997
+Compute Time	: 0.011 sec
+--------------------------------
+
+    Array Size	: 5000
+--------------------------------
+##### BUBBLE SORT #####
+
+Comparisons	: 24995000
+Assignments	: 18877482
+Compute Time	: 0.422 sec
+
+##### MOD BUBBLE SORT #####
+
+Comparisons	: 12497500
+Assignments	: 18734775
+Compute Time	: 0.314 sec
+
+##### SELECTION SORT #####
+
+Comparisons	: 12497500
+Assignments	: 14997
+Compute Time	: 0.124 sec
+
+##### INSERTION SORT #####
+
+Comparisons	: 6244925
+Assignments	: 6254923
+Compute Time	: 0.081 sec
+
+##### QUICK SORT #####
+
+Comparisons	: 72230
+Assignments	: 42932
+Compute Time	: 0.007 sec
+
+##### RAND QUICK SORT #####
+
+Comparisons	: 70168
+Assignments	: 44308
+Compute Time	: 0.008 sec
+
+##### MERGE SORT #####
+
+Comparisons	: 57456
+Assignments	: 123615
+Compute Time	: 0.004 sec
+
+##### HEAP SORT #####
+
+Comparisons	: 5000
+Assignments	: 14997
+Compute Time	: 0.008 sec
+--------------------------------
+
+    Array Size	: 10000
+--------------------------------
+##### BUBBLE SORT #####
+
+Comparisons	: 99990000
+Assignments	: 74892615
+Compute Time	: 1.925 sec
+
+##### MOD BUBBLE SORT #####
+
+Comparisons	: 49995000
+Assignments	: 74507943
+Compute Time	: 1.25 sec
+
+##### SELECTION SORT #####
+
+Comparisons	: 49995000
+Assignments	: 29997
+Compute Time	: 0.449 sec
+
+##### INSERTION SORT #####
+
+Comparisons	: 24954551
+Assignments	: 24974549
+Compute Time	: 0.306 sec
+
+##### QUICK SORT #####
+
+Comparisons	: 156445
+Assignments	: 91102
+Compute Time	: 0.016 sec
+
+##### RAND QUICK SORT #####
+
+Comparisons	: 154094
+Assignments	: 87855
+Compute Time	: 0.022 sec
+
+##### MERGE SORT #####
+
+Comparisons	: 124965
+Assignments	: 267231
+Compute Time	: 0.007 sec
+
+##### HEAP SORT #####
+
+Comparisons	: 10000
+Assignments	: 29997
+Compute Time	: 0.016 sec
+--------------------------------
+
+    Array Size	: 20000
+--------------------------------
+##### BUBBLE SORT #####
+
+Comparisons	: 399980000
+Assignments	: 300584532
+Compute Time	: 8.12 sec
+
+##### MOD BUBBLE SORT #####
+
+Comparisons	: 199990000
+Assignments	: 300267636
+Compute Time	: 5.717 sec
+
+##### SELECTION SORT #####
+
+Comparisons	: 199990000
+Assignments	: 59997
+Compute Time	: 2.651 sec
+
+##### INSERTION SORT #####
+
+Comparisons	: 99567350
+Assignments	: 99607348
+Compute Time	: 1.97 sec
+
+##### QUICK SORT #####
+
+Comparisons	: 330401
+Assignments	: 177044
+Compute Time	: 0.043 sec
+
+##### RAND QUICK SORT #####
+
+Comparisons	: 351472
+Assignments	: 211897
+Compute Time	: 0.067 sec
+
+##### MERGE SORT #####
+
+Comparisons	: 269951
+Assignments	: 574463
+Compute Time	: 0.018 sec
+
+##### HEAP SORT #####
+
+Comparisons	: 20000
+Assignments	: 59997
+Compute Time	: 0.033 sec
+--------------------------------
+
+    Array Size	: 30000
+--------------------------------
+##### BUBBLE SORT #####
+
+Comparisons	: 899970000
+Assignments	: 673918863
+Compute Time	: 23.265 sec
+
+##### MOD BUBBLE SORT #####
+
+Comparisons	: 449985000
+Assignments	: 679767258
+Compute Time	: 14.433 sec
+
+##### SELECTION SORT #####
+
+Comparisons	: 449985000
+Assignments	: 89997
+Compute Time	: 4.343 sec
+
+##### INSERTION SORT #####
+
+Comparisons	: 224957131
+Assignments	: 225017129
+Compute Time	: 2.9 sec
+
+##### QUICK SORT #####
+
+Comparisons	: 523396
+Assignments	: 311307
+Compute Time	: 0.055 sec
+
+##### RAND QUICK SORT #####
+
+Comparisons	: 515578
+Assignments	: 289325
+Compute Time	: 0.067 sec
+
+##### MERGE SORT #####
+
+Comparisons	: 422876
+Assignments	: 894463
+Compute Time	: 0.025 sec
+
+##### HEAP SORT #####
+
+Comparisons	: 30000
+Assignments	: 89997
+Compute Time	: 0.035 sec
+--------------------------------
+
+    Array Size	: 50000
+--------------------------------
+##### BUBBLE SORT #####
+
+Comparisons	: 2499950000
+Assignments	: 1877056065
+Compute Time	: 56.146 sec
+
+##### MOD BUBBLE SORT #####
+
+Comparisons	: 1249975000
+Assignments	: 1877800800
+Compute Time	: 36.484 sec
+
+##### SELECTION SORT #####
+
+Comparisons	: 1249975000
+Assignments	: 149997
+Compute Time	: 11.718 sec
+
+##### INSERTION SORT #####
+
+Comparisons	: 625535649
+Assignments	: 625635647
+Compute Time	: 7.516 sec
+
+##### QUICK SORT #####
+
+Comparisons	: 967489
+Assignments	: 534278
+Compute Time	: 0.091 sec
+
+##### RAND QUICK SORT #####
+
+Comparisons	: 908519
+Assignments	: 512417
+Compute Time	: 0.111 sec
+
+##### MERGE SORT #####
+
+Comparisons	: 740476
+Assignments	: 1568927
+Compute Time	: 0.043 sec
+
+##### HEAP SORT #####
+
+Comparisons	: 50000
+Assignments	: 149997
+Compute Time	: 0.062 sec
+--------------------------------
+
+    Array Size	: 100000
+--------------------------------
+##### BUBBLE SORT #####
+
+Comparisons	: 9999900000
+Assignments	: 7514605380
+Compute Time	: 216.783 sec
+
+##### MOD BUBBLE SORT #####
+
+Comparisons	: 4999950000
+Assignments	: 7504909857
+Compute Time	: 160.86 sec
+
+##### SELECTION SORT #####
+
+Comparisons	: 4999950000
+Assignments	: 299997
+Compute Time	: 48.164 sec
+
+##### INSERTION SORT #####
+
+Comparisons	: 2497694542
+Assignments	: 2497894540
+Compute Time	: 31.833 sec
+
+##### QUICK SORT #####
+
+Comparisons	: 1967781
+Assignments	: 1127497
+Compute Time	: 0.224 sec
+
+##### RAND QUICK SORT #####
+
+Comparisons	: 1985162
+Assignments	: 1274152
+Compute Time	: 0.35 sec
+
+##### MERGE SORT #####
+
+Comparisons	: 1581227
+Assignments	: 3337855
+Compute Time	: 0.105 sec
+
+##### HEAP SORT #####
+
+Comparisons	: 100000
+Assignments	: 299997
+Compute Time	: 0.11 sec
+--------------------------------
+
+    Array Size	: 200000
+--------------------------------
+##### BUBBLE SORT #####
+
+Comparisons	: 39999800000
+Assignments	: 29907173829
+Compute Time	: 971.208 sec
+
+##### MOD BUBBLE SORT #####
+
+Comparisons	: 19999900000
+Assignments	: 29973368514
+Compute Time	: 631.89 sec
+
+##### SELECTION SORT #####
+
+Comparisons	: 19999900000
+Assignments	: 599997
+Compute Time	: 182.847 sec
+
+##### INSERTION SORT #####
+
+Comparisons	: 9966617683
+Assignments	: 9967017681
+Compute Time	: 116.481 sec
+
+##### QUICK SORT #####
+
+Comparisons	: 4521792
+Assignments	: 2526784
+Compute Time	: 0.464 sec
+
+##### RAND QUICK SORT #####
+
+Comparisons	: 4187226
+Assignments	: 2441663
+Compute Time	: 0.476 sec
+
+##### MERGE SORT #####
+
+Comparisons	: 3362463
+Assignments	: 7075711
+Compute Time	: 0.167 sec
+
+##### HEAP SORT #####
+
+Comparisons	: 200000
+Assignments	: 599997
+Compute Time	: 0.22 sec
+--------------------------------
+
+    Array Size	: 300000
+--------------------------------
+##### BUBBLE SORT #####
+
+Comparisons	: 89999700000
+Assignments	: 67381707267
+Compute Time	: 2013.9 sec
+
+##### MOD BUBBLE SORT #####
+
+Comparisons	: 44999850000
+Assignments	: 67598904054
+Compute Time	: 1422.95 sec
+
+##### SELECTION SORT #####
+
+Comparisons	: 44999850000
+Assignments	: 899997
+Compute Time	: 483.174 sec
+
+##### INSERTION SORT #####
+
+Comparisons	: 22505519771
+Assignments	: 22506119769
+Compute Time	: 299.957 sec
+
+##### QUICK SORT #####
+
+Comparisons	: 6582282
+Assignments	: 4048007
+Compute Time	: 0.755 sec
+
+##### RAND QUICK SORT #####
+
+Comparisons	: 7225610
+Assignments	: 4144953
+Compute Time	: 0.827 sec
+
+##### MERGE SORT #####
+
+Comparisons	: 5223029
+Assignments	: 10951423
+Compute Time	: 0.266 sec
+
+##### HEAP SORT #####
+
+Comparisons	: 300000
+Assignments	: 899997
+Compute Time	: 0.392 sec
